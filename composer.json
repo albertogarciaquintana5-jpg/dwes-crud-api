@@ -1,0 +1,13 @@
+{
+  "name": "alumno/crud-api",
+  "description": "API RESTful simple en PHP (JWT)",
+  "require": {
+    "php": ">=7.4",
+    "firebase/php-jwt": "^6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
